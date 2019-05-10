@@ -1,6 +1,6 @@
 # animation_demo
 
-A new Flutter project.
+Learning the process of creation simple animation with flutter. In this case I've created a logo animation that can be used in a splashscren.
 
 ## Getting Started
 
